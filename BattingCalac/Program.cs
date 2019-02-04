@@ -85,7 +85,7 @@ namespace BattingCalac
 
         public static void KPercentage()
         {
-
+            //Kpercentage shit
         }
 
     }
