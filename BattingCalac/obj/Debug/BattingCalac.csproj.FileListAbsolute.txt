@@ -1,0 +1,7 @@
+C:\Users\Evans\source\repos\BattingCalac\BattingCalac\bin\Debug\BattingCalac.exe.config
+C:\Users\Evans\source\repos\BattingCalac\BattingCalac\bin\Debug\BattingCalac.exe
+C:\Users\Evans\source\repos\BattingCalac\BattingCalac\bin\Debug\BattingCalac.pdb
+C:\Users\Evans\source\repos\BattingCalac\BattingCalac\obj\Debug\BattingCalac.csprojAssemblyReference.cache
+C:\Users\Evans\source\repos\BattingCalac\BattingCalac\obj\Debug\BattingCalac.csproj.CoreCompileInputs.cache
+C:\Users\Evans\source\repos\BattingCalac\BattingCalac\obj\Debug\BattingCalac.exe
+C:\Users\Evans\source\repos\BattingCalac\BattingCalac\obj\Debug\BattingCalac.pdb
